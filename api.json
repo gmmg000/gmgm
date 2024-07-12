@@ -3,7 +3,7 @@
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
-            "key": "豆瓣",
+            "key": "豆瓣丨加载过慢骚等",
             "name": "豆瓣",
             "type": 3,
             "api": "csp_Douban",
