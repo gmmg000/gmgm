@@ -1,10 +1,10 @@
-{
+r{
     "spider": "./spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
-            "key": "豆瓣丨加载过慢骚等",
-            "name": "豆瓣",
+            "key": "豆瓣",
+            "name": "豆瓣丨加载过慢骚等",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
